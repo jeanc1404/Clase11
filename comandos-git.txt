@@ -1,7 +1,9 @@
 1. git init 
 
 2. git status 
-
+/
 3. git add . 
 
-4. git commit
+4. git commit -m Siempre con mensaje
+
+5. git log Resumen de todo lo que ha pasado
