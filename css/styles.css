@@ -1,0 +1,14 @@
+#carouselExample {
+    width: 70%;
+   
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.redes {
+    margin-bottom: 5px;
+    margin-left: 5px;
+    gap: 5px;
+}
