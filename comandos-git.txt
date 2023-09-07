@@ -10,4 +10,9 @@
 
 6. git log --oneline log resumido
 
+7. git branch para ver las ramas
+7a git branch nombrerama crear rama
+7b git checkout rama para cambiarse de ramas
+7c 
 
+8.
