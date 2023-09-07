@@ -15,4 +15,8 @@
 7b git checkout rama para cambiarse de ramas
 7c 
 
-8.
+8. git merge nombrerama fusiona los cambios de la 
+   rama dentro de la rama principal
+
+   a. estar dentro de la rama principal
+   b. no debe tener add o commit la rama que se fusiona
